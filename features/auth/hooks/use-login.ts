@@ -1,5 +1,5 @@
 export default function useLogin() {
-  // login function
+  // Function
   const login = () => {
     console.log("logged in");
   };
