@@ -1,5 +1,5 @@
 export default function useLogout() {
-  // login function
+  // Function
   const logout = () => {
     console.log("logged out");
   };
